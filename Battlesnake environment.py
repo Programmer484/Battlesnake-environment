@@ -378,6 +378,12 @@ while True:
 
 
 
+
+
+
+
+
+
 """ab_minimax.py"""
 import copy
 import itertools
@@ -668,6 +674,15 @@ def ab_minimax_move(game_state):
             max_eval = evaluation
             best_move = move['move_name']
     return best_move
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1031,6 +1046,15 @@ def minimax_move(game_state):
             else:
                 best_move = best_node['target_move']
     return best_move
+
+
+
+
+
+
+
+
+
 
 """user.py"""
 user1_move_name = None
