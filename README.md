@@ -1,6 +1,6 @@
 A Battlesnake environment that allows:
 - humans playing against battlesnakes
-- setting up custom positions for your battlesnakes
+- setting up custom positions when testing battlesnake code
 
 Currently only compatible with battlesnakes coded in python but if anyone has a way to extend the compatibility feel free to fork the repo and implement it!
 
